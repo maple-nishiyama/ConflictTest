@@ -1,1 +1,2 @@
 ConflictTest
+hoge
